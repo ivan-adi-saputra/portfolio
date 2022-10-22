@@ -1,0 +1,41 @@
+.nav-link {
+  color: white;
+}
+
+.nav-item a:hover {
+  color: rgb(35, 35, 46);
+}
+
+.jumbotron {
+  min-height: 600px;
+  margin-top: 100px;
+}
+
+section {
+  min-height: 600px;
+  padding-top: 50px;
+}
+
+hr {
+  width: 250px;
+  border: 3px solid #999;
+  margin: auto;
+}
+
+.about {
+  background-color: #eaeaea;
+}
+
+.contact {
+  background-color: #eaeaea;
+}
+
+footer {
+  padding: 20px;
+  background-color: #eaeaea;
+}
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
